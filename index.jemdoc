@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Xihui Liu 
+
+~~~
+{}{img_left}{XihuiLiu-photo.jpg}{alt text}{200}{200}
+PhD Student,\n 
+[http://www.ee.cuhk.edu.hk/en-gb/ Department of Electornic Engineering], \n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)]\n
+xihui.liu.me@gmail.com \n
+xihui-liu@link.cuhk.edu.hk \n \n
+[https://scholar.google.com.hk/citations?user=4YL23GMAAAAJ&hl=en Google Scholar]~~~[XihuiLiu-CV.pdf CV]
+~~~
+
+== About me
+I am currently a Ph.D. student in [http://mmlab.ie.cuhk.edu.hk/ Multimedia Lab (MMLab)], the Chinese University of Hong Kong, supervised by [http://www.ee.cuhk.edu.hk/~xgwang/ Prof. Xiaogang Wang] and [http://www.ee.cuhk.edu.hk/~hsli/ Prof. Hongsheng Li]. Before that, I received bachelor's degree in Electronic Engineering in [http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University (THU)] in 2017. My research interests are computer vision and deep learning.
+
+== News
+- Two papers accepted by ECCV 2018.
+
+== Publications 
+- [https://arxiv.org/abs/1803.08314 Show, Tell and Discriminate: Image Captioning by Self-retrieval with Partially Labeled Data] \n
+  *Xihui Liu*, Hongsheng Li, Jing Shao, Dapeng Chen, Xiaogang Wang \n
+  /European Conference on Computer Vision (ECCV), 2018./
+- [https://arxiv.org/abs/1808.01571 Improving Deep Visual Representation for Person Re-identiﬁcation by Global and Local Imagelanguage Association] \n
+  Dapeng Chen, Hongsheng Li, *Xihui Liu*, Yantao Shen, Jing Shao, Zejian Yuan, Xiaogang Wang \n
+  /European Conference on Computer Vision (ECCV), 2018./
+- [https://arxiv.org/abs/1709.09930 HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis] \n
+  *Xihui Liu*\*, Haiyu Zhao\*, Maoqing Tian, Lu Sheng, Jing Shao, Shuai Yi, Junjie Yan, Xiaogang Wang \n
+  /International Conference on Computer Vision (ICCV), 2017./
+- [http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf Orientation invariant feature embedding and spatial temporal regularization for vehicle re-identification] \n
+  Zhongdao Wang, Luming Tang, *Xihui Liu*, Zhuliang Yao, Shuai Yi, Jing Shao, Junjie Yan, Shengjin Wang, Hongsheng Li, Xiaogang Wang \n
+  /International Conference on Computer Vision (ICCV), 2017./
+- [https://arxiv.org/abs/1702.06355 Object Detection in Videos With Tubelet Proposal Networks] \n
+  Kai Kang, Hongsheng Li, Tong Xiao, Wanli Ouyang, Junjie Yan, *Xihui Liu*, Xiaogang Wang \n
+  /The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017./
+
+== Working Experience
+- Research intern at [https://www.sensetime.com/?lang=en-us SenseTime Research]. (September 2016 to July 2017) \n
+  Worked on person attribute recognition with Dr. Jing Shao.
+- Research assistant at [http://mmlab.ie.cuhk.edu.hk/ Multimedia Lab (MMLab)], CUHK. (July 2016 to August 2016) \n
+  Worked on object detection in videos with Dr. Kai Kang, supervised by Prof. Xiaogang Wang.
+
+== Teaching Experience
+Teaching Assistant of the following courses in The Chinese University of Hong Kong:
+- ENGG 5202, *Pattern Recognition*, Fall 2017.
+- ENGG 2450A, *Probability and Statistics for Engineers*, Spring 2018.
